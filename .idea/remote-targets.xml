@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Ubuntu-22.04" type="wsl" uuid="bd50972c-9333-454d-b64a-35ab827380d9">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-22.04" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/mnt/c/Users/mikumifa/AppData/Local/Programs/GoLand/jbr/bin&#10;, stderr=}/geecache-learning" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/root/go" />
+            <option name="goRoot" value="/usr/bin/go" />
+            <option name="goVersion" value="go1.18.1 linux/amd64" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
